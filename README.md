@@ -1,6 +1,6 @@
 # Hi, I'm Ishaan!
 
-I'm a Computer Engineering student at the University of Florida with a passion for autonomous systems, robotics, and AI/ML. Currently working on cutting-edge research in multimodal world models and scene graph generation for autonomous vehicles.
+I'm a first-year Computer Engineering student at the University of Florida with a passion for autonomous systems, robotics, and AI/ML. I enjoy solving problems in my everyday life with code. 
 
 **Undergraduate Researcher** @ Trustworthy Engineered Autonomy Lab, UF
 - Working on multimodal world models for self-driving applications
